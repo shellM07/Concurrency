@@ -142,6 +142,13 @@ invocation of the start method.
 - start() it spawns (create) a new thread and executes run method on the new thread.
  
 
+Q. Consider the following two statements
+
+Threads of same process can access each other’s stack data
+Threads of same process can access each other’s global data
+Which of the following is correct?
+ 2nd option
+
 
 
 
