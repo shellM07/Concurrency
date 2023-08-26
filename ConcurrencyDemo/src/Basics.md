@@ -150,6 +150,11 @@ Which of the following is correct?
  2nd option
 
 
+What happens to the thread, when the run() method completes its execution ?
+
+Thread is dead and thread object cleared by GC
+
+
 
 
 
